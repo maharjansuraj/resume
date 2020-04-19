@@ -22,6 +22,10 @@
 	text-align: center;
 }
 
+.title:hover {
+	color: blue;
+}
+
 .intro {
 	float:left;
 	width: 750px;
